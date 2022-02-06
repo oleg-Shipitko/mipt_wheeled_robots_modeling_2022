@@ -19,8 +19,8 @@ Telegram: @oleg_shipitko
 
 ### Материалы
 | Неделя | Тема занятия | Слайды |
-| --- | --- | --- | --- |
-|01| Вводная лекция. Сенсоры мобильных роботов| [Слайды]() |
+| --- | --- | --- |
+|01| Вводная лекция. Сенсоры мобильных роботов | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%201.%20Course%20organization%20and%20robotics%20field%20overview.pdf) |
 
 ### Проект по курсу
 Требования к проекту по курсу и идеи тем для проекта описаны в [project description and topics.pdf](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/master/project%20description%20and%20topics.pdf).
