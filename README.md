@@ -23,6 +23,7 @@ Telegram: @oleg_shipitko
 |01| Вводная лекция. Сенсоры мобильных роботов | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%201.%20Course%20organization%20and%20robotics%20field%20overview.pdf) |
 |02| Алгоритмы локализации | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%202.%20Localization.pdf) |
 |03| Кинематика. Вероятностные модели движения | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%203.%20Kinematics.%20Probabilistic%20motion%20models.pdf) |
+|04| Вероятностные модели наблюдения | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%204.%20Probabilistic%20measurement%20models.pdf) |
 
 ### Проект по курсу
 Требования к проекту по курсу и идеи тем для проекта описаны в [project description and topics.pdf](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/master/project%20description%20and%20topics.pdf).
