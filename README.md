@@ -14,7 +14,7 @@ Telegram: @oleg_shipitko
 
 ### Семинарист
 Ратников Алексей
-Telegram: @deep_dark_fantasy_wee_wee
+Telegram: @alx_rtnkv
 
 ## Материалы курса
 
