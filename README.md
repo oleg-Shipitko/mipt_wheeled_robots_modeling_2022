@@ -12,6 +12,10 @@
 Шипитько Олег 
 Telegram: @oleg_shipitko
 
+### Семинарист
+Ратников Алексей
+Telegram: @deep_dark_fantasy_wee_wee
+
 ## Материалы курса
 
 ### Видео лекций и семинаров
@@ -25,6 +29,10 @@ Telegram: @oleg_shipitko
 |03| Кинематика. Вероятностные модели движения | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%203.%20Kinematics.%20Probabilistic%20motion%20models.pdf) |
 |04| Вероятностные модели наблюдения | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%204.%20Probabilistic%20measurement%20models.pdf) |
 |05| Картирование | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%205.%20Mapping.pdf) |
+|06| Планирование пути | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%206.%20Path%20planning.pdf) |
+|07| Алгоритмы управления | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%207.%20Control.pdf) |
+|08| Введение в ROS, базовые концепции, первый запуск | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Seminar%201.%20Intro%20to%20ROS%2C%20basic%20concepts%2C%20first%20launch.pdf) |
+
 
 ### Проект по курсу
 Требования к проекту по курсу и идеи тем для проекта описаны в [project description and topics.pdf](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/master/project%20description%20and%20topics.pdf).
