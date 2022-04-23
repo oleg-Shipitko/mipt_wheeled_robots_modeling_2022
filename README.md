@@ -32,6 +32,7 @@ Telegram: @alx_rtnkv
 |06| Планирование пути | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%206.%20Path%20planning.pdf) |
 |07| Алгоритмы управления | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Lecture%207.%20Control.pdf) |
 |08| Введение в ROS, базовые концепции, первый запуск | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Seminar%201.%20Intro%20to%20ROS%2C%20basic%20concepts%2C%20first%20launch.pdf) |
+|09| Файловая система ROS, создание пакета, типы коммуникации | [Слайды](https://github.com/oleg-Shipitko/mipt_wheeled_robots_modeling/blob/main/slides/Seminar%202.%20File%20System%2C%20First%20Package%2C%20Messages%2C%20Services%2C%20Actions.pdf) |
 
 
 ### Проект по курсу
